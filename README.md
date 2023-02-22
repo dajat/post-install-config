@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/uYiLy3h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To configure roles, departments, teams, agents, users, SLAs, and Help Topics on the ticket system, make sure that the user is in Admin Panel to assign permission and access to each function. Select Agents and choose the appropiate function to add new users to the system.
+To configure roles, departments, teams, agents, users, SLAs, and Help Topics on the ticket system, I ensured that the user is in Admin Panel to assign permissions and access to each function. Select Agents and choose the appropiate function to add new users to the system.
 </p>
 <br />
 
