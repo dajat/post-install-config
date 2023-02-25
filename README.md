@@ -25,42 +25,50 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 <p>
-<h2>Configure/Add Users </h2>
-<img src="https://i.imgur.com/uYiLy3h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Login to osTicket as an Administrator</h2>
+<img src="https://imgur.com/KAd8Vno.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After the initial installation and setup, the administrator can login to create roles, departments, teams, agents, users, SLAs, and Help Topics on the ticket system. Also, the administrator can assign permissions and access to each user inside of the ticketing system. This can be based on the role, department, or any user with login credentials.
 </p>
 <br />
 <p>
-<h2>Create User profiles and assign permissions </h2>
-<img src="https://i.imgur.com/F1V8lcw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Configure Roles </h2>
+<img src="https://imgur.com/EkKHhBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To create users, the administrator can select "Add New User" and add the employee/person name and required information. Next, the administrator can select the appropiate access that's required for each role.
-</p>
-<br />
-<p>
-<h2> Allow access to anyone to create tickets </h2>
-<img src="https://i.imgur.com/7vO9XLX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-In the Administrator Panel, the administrator can allow access to anyone to create tickets to be added to the ticketing system. The administrator can clink on "Settings", go to "Agents" and allow anyone to create a ticket. "Registration Required" can be selected if the company choose to require registration or login credentials to create tickets.
+After the initial installation and setup, the administrator can login to create roles and assign permissions and access to each user inside of the ticketing system. You must be under "Admin Panel" and click on "Agents" --> click on "Roles". Next click on "Add New Role" to name and assign permissions to the role. Once completed, you can click on "Add Role" to confirm.
 </p>
 <br />
 <p>
-<h2> Manage SLA's in Admin Panel</h2>
-<img src="https://i.imgur.com/FoswpEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Configure Department</h2>
+<img src="https://imgur.com/aQLwU3C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The administrator can create Service Level Agreements (SLA) for each user or department to follow to resolve tickets in a timely manner. To manage SLAs, the administrator can select manage, click on SLA, and "Add New SLA Plan"
+Also, the administrator can configure departments and assign permissions. You must be under "Admin Panel" and click on "Agents" --> click on "Departments". Next click on "Add New Department" to name and assign permissions. Once completed, you can click on "Create Dept" to confirm.
 </p>
 <br />
 <p>
-<h2> Manage Help Topics in Admin Panel</h2>
-<img src="https://i.imgur.com/tiDPIb8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Configure Teams</h2>
+<img src="https://imgur.com/7KoSc0Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The administrator can create help topics that each department can use based on the types of tickets that they will manage or resolve. To create help topics, the administrator can select "Help Topics" and name the topic they would like to add.
+Next, the administrator can configure teams. You must be under "Admin Panel" and click on "Agents" --> click on "Teams". Next click on "Add New Team" to name the team and you have the option to add memebers under the "Members" tab. Once completed, you can click on "Create Team" to confirm.
+</p>
+<br />
+<p>
+<h2> Allow Everyone to Create Tickets</h2>
+<img src="https://imgur.com/OAEAKrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The administrator can allow anyone to create tickets. Under the "Admin Panel --> click on "Settings" --> click on "User Settings" and check the box for "Require Registration"
+</p>
+<br />
+<p>
+<h2>Configure Agents (Workers)</h2>
+<img src="https://imgur.com/gYzkii9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the Admin Panel --> click on "Users" --> click on "Add New Agent"
 </p>
 <br />
