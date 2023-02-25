@@ -41,7 +41,7 @@ After the initial installation and setup, the administrator can login to create 
 </p>
 <br />
 <p>
-<h2>Configure Department</h2>
+<h2>Configure Departments</h2>
 <img src="https://imgur.com/aQLwU3C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -70,5 +70,47 @@ The administrator can allow anyone to create tickets. Under the "Admin Panel -->
 </p>
 <p>
 Under the Admin Panel --> click on "Users" --> click on "Add New Agent"
+</p>
+<br />
+<h2>Configure Users (Customers)</h2>
+<img src="https://imgur.com/eCw82U2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the Agent Panel --> click on "Users" --> click on "Add New"
+</p>
+<br />
+<h2>Configure Users (Customers) Continued</h2>
+<img src="https://imgur.com/PiNAqyY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add the users email address and Full name and select "Add User"
+</p>
+<br />
+<h2>Configure Service Level Agreement (SLA)</h2>
+<img src="https://imgur.com/rbAxPdE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the Admin Panel --> Select "Manage" --> Select "SLA" --> Select "Add New SLA Plan"
+</p>
+<br />
+<h2>Configure Service Level Agreement (SLA) Continued</h2>
+<img src="https://imgur.com/3NdXXsm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add the SLA name, Status, Grace Period, Schedule, and select "Add Plan" to confirm.
+</p>
+<br />
+<h2>Configure Help Topics</h2>
+<img src="https://imgur.com/OTspJyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the Admin Panel --> Select "Manage" --> Select "Help Topics" --> Select "Add New Help Topic"
+</p>
+<br />
+<h2>Configure Help Topics Continued</h2>
+<img src="https://imgur.com/NkzeaT2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add the Help Topic name, status, and type. Also, the administrator can add what option the help topic can go under. Once complete, select "Add Topic"
 </p>
 <br />
