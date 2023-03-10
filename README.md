@@ -37,7 +37,7 @@ After the initial installation and setup, the administrator can login to create 
 <img src="https://imgur.com/EkKHhBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the initial installation and setup, the administrator can login to create roles and assign permissions and access to each user inside of the ticketing system. You must be under "Admin Panel" and click on "Agents" --> click on "Roles". Next click on "Add New Role" to name and assign permissions to the role. Once completed, you can click on "Add Role" to confirm.
+After the initial installation and setup, the administrator can login to create roles and assign permissions and access to each user. You must be under "Admin Panel" and click on "Agents" --> click on "Roles". Next click on "Add New Role" to name and assign permissions to the role. Once completed, you can click on "Add Role" to confirm.
 </p>
 <br />
 <p>
