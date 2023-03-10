@@ -111,6 +111,6 @@ Under the Admin Panel --> Select "Manage" --> Select "Help Topics" --> Select "A
 <img src="https://imgur.com/NkzeaT2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Add the Help Topic name, status, and type. Also, the administrator can add what option the help topic can go under. Once complete, select "Add Topic"
+Add the Help Topic name, status, and type. Also, the administrator can add what option the help topic can go under. Once complete, select "Add Topic."
 </p>
 <br />
