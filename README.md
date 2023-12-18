@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://imgur.com/KAd8Vno.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the initial installation and setup, the administrator can login to create roles, departments, teams, agents, users, SLAs, and Help Topics on the ticket system. Also, the administrator can assign permissions and access to each user inside of the ticketing system. This can be based on the role, department, or any user with login credentials.
+After the initial installation and setup, the administrator can log in to create roles, departments, teams, agents, users, SLAs, and Help Topics on the ticket system. Also, the administrator can assign permissions and access to each user inside of the ticketing system. This can be based on the role, department, or any user with login credentials.
 </p>
 <br />
 <p>
@@ -37,7 +37,7 @@ After the initial installation and setup, the administrator can login to create 
 <img src="https://imgur.com/EkKHhBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the initial installation and setup, the administrator can login to create roles and assign permissions and access to each user. You must be under "Admin Panel" and click on "Agents" --> click on "Roles". Next click on "Add New Role" to name and assign permissions to the role. Once completed, you can click on "Add Role" to confirm.
+After the initial installation and setup, the administrator can log in to create roles and assign permissions and access to each user. You must be under "Admin Panel" and click on "Agents" --> click on "Roles". Next, click on "Add New Role" to name and assign permissions to the role. Once completed, you can click on "Add Role" to confirm.
 </p>
 <br />
 <p>
@@ -45,7 +45,7 @@ After the initial installation and setup, the administrator can login to create 
 <img src="https://imgur.com/aQLwU3C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Also, the administrator can configure departments and assign permissions. You must be under "Admin Panel" and click on "Agents" --> click on "Departments". Next click on "Add New Department" to name and assign permissions. Once completed, you can click on "Create Dept" to confirm.
+Also, the administrator can configure departments and assign permissions. You must be under "Admin Panel" and click on "Agents" --> click on "Departments". Next, click on "Add New Department" to name and assign permissions. Once completed, you can click on "Create Dept" to confirm.
 </p>
 <br />
 <p>
@@ -53,7 +53,7 @@ Also, the administrator can configure departments and assign permissions. You mu
 <img src="https://imgur.com/7KoSc0Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, the administrator can configure teams. You must be under "Admin Panel" and click on "Agents" --> click on "Teams". Next click on "Add New Team" to name the team and you have the option to add memebers under the "Members" tab. Once completed, you can click on "Create Team" to confirm.
+Next, the administrator can configure teams. You must be under "Admin Panel" and click on "Agents" --> click on "Teams". Next, click on "Add New Team" to name the team and you have the option to add members under the "Members" tab. Once completed, you can click on "Create Team" to confirm.
 </p>
 <br />
 <p>
@@ -83,7 +83,7 @@ Under the Agent Panel --> click on "Users" --> click on "Add New"
 <img src="https://imgur.com/PiNAqyY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Add the users email address and Full name and select "Add User"
+Add the user's email address and Full name and select "Add User"
 </p>
 <br />
 <h2>Configure Service Level Agreement (SLA)</h2>
@@ -97,7 +97,7 @@ Under the Admin Panel --> Select "Manage" --> Select "SLA" --> Select "Add New S
 <img src="https://imgur.com/3NdXXsm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Add the SLA name, Status, Grace Period, Schedule, and select "Add Plan" to confirm.
+Add the SLA name, Status, Grace Period, and Schedule, and select "Add Plan" to confirm.
 </p>
 <br />
 <h2>Configure Help Topics</h2>
